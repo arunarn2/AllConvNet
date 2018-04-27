@@ -3,7 +3,9 @@
 This repository contains implemenation of [STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET](https://arxiv.org/pdf/1412.6806.pdf) on the cifar-10 dataset
 
 ## Network Graphs for Model A, B and C
-![Network Structure](model.png)  
+![Network Structure](model.png)   
+
+### Model A     ### Model B     ### Model C
 ![Network Model](graph.png)  
 
 
