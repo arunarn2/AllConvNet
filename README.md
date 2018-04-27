@@ -3,6 +3,7 @@
 This repository contains implemenation of [STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET](https://arxiv.org/pdf/1412.6806.pdf) on the cifar-10 dataset
 
 ## Image Preprocessing using ZA Whitening  
+ZCA Whitening procedure is as explained on this  page [Implementing PCA/Whitening](http://ufldl.stanford.edu/wiki/index.php/Implementing_PCA/Whitening)
 ```
 # Applying global contrast normalize followed by whitening
 def global_contrast_normalize(input_x, scale=1., min_divisor=1e-8):
