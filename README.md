@@ -4,7 +4,7 @@ This repository contains implemenation of [STRIVING FOR SIMPLICITY: THE ALL CONV
 
 ## All-CNN Model A  
 *Accuracy*  
-![Model A](modela_acc.png)
+![Model A](modela_cnn.png)
 
 
 ## All-CNN Model B    
@@ -14,4 +14,4 @@ This repository contains implemenation of [STRIVING FOR SIMPLICITY: THE ALL CONV
 
 ## All-CNN Model C  
 *Accuracy*  
-![Model C](modelc_acc.png)
+![Model C](modelc_accuracy.png)
