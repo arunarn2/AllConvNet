@@ -1,6 +1,6 @@
 # AllConvNet  
 
-This repository contains implemenation of [STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET](https://arxiv.org/pdf/1412.6806.pdf) on the cifar-10 dataset
+This repository contains implemenation of [STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET](https://arxiv.org/pdf/1412.6806.pdf) on the [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)  
 
 ## Image Preprocessing using ZA Whitening  
 ZCA Whitening procedure is as explained on this  page [Implementing PCA/Whitening](http://ufldl.stanford.edu/wiki/index.php/Implementing_PCA/Whitening)
