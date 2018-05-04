@@ -1,4 +1,4 @@
-# AllConvNet  
+# Image Classification using simpler CNN - AllConvNet  
 
 This repository contains implemenation of [STRIVING FOR SIMPLICITY: THE ALL CONVOLUTIONAL NET](https://arxiv.org/pdf/1412.6806.pdf) on the [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)  
 
